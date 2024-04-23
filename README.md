@@ -42,19 +42,19 @@ Shopping Cart and Checkout: Accessible shopping cart on all pages with a secure,
 ![WhatsApp Image 2024-04-22 at 11 37 27 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/d936e2fb-8722-4174-b68b-375bd8413a2f)
 
 <h2>Nessus test report</h2>
-Web Application testing ensures the performance, security, and functionality of web servers.
-Vulnerability testing checks for fragility in a website that could be utilized by attackers.
-Objectives:
-  1. Identify and fix vulnerabilities to stop security breaches.
-  2. Protect sensitive data and maintain user trust.
-Tools: Nessus
-Testing Objectives: 
-  1. Performance Testing: Assess server response time, throughput, and scalability under different loads.
-  2. Security Testing: Identify and reduce vulnerabilities such as injection flaws, CGI and CSRF.
-  3. Functional Testing: Verify that the server functions correctly across various scenarios and inputs.
-Execution and Analysis:
-  1. Execute test scenarios using chosen tools.
-  2. Monitor key metrics: response time, error rates, resource utilization.
-  3. Analyze results to identify performance, security vulnerabilities, or functional issues.
+Web Application testing ensures the performance, security, and functionality of web servers. <br>
+Vulnerability testing checks for fragility in a website that could be utilized by attackers.<br>
+Objectives:<br>
+  1. Identify and fix vulnerabilities to stop security breaches.<br>
+  2. Protect sensitive data and maintain user trust.<br>
+Tools: Nessus<br>
+Testing Objectives: <br>
+  1. Performance Testing: Assess server response time, throughput, and scalability under different loads.<br>
+  2. Security Testing: Identify and reduce vulnerabilities such as injection flaws, CGI and CSRF.<br>
+  3. Functional Testing: Verify that the server functions correctly across various scenarios and inputs.<br>
+Execution and Analysis:<br>
+  1. Execute test scenarios using chosen tools.<br>
+  2. Monitor key metrics: response time, error rates, resource utilization.<br>
+  3. Analyze results to identify performance, security vulnerabilities, or functional issues.<br>
 
 
