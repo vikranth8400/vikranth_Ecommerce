@@ -8,11 +8,6 @@ wp-content: Stores themes, plugins, and uploads—key for user-generated content
 wp-includes: Core WordPress files essential for CMS operation, typically unmodified by users.<br>
 
 <h2>Hosting and Domain Configuration:</h2>
-Hosting Provider: Dashinfinity, supports WordPress hosting.<br>![WhatsApp Image 2024-04-22 at 11 37 26 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/773a6ea5-8ff0-48fd-9654-8acefbc1cf1b)
-![WhatsApp Image 2024-04-22 at 11 37 26 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/89a9968f-e1cb-4c82-a78e-bde1dfa8b02e)
-![WhatsApp Image 2024-04-22 at 11 37 27 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/467cd070-ed61-457f-809b-2b0f6b13a122)
-![WhatsApp Image 2024-04-22 at 11 37 27 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/f69c9e2b-5479-427c-9b7c-dcf08e2b2f1f)
-![WhatsApp Image 2024-04-22 at 11 37 28 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/5c1af095-3857-49e9-b268-b4f4746b8fc7)
 
 Domain: Acquired a domain name that aligns with the brand.<br>
 <h2>WordPress Setup:</h2>
