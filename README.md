@@ -45,7 +45,7 @@ Shopping Cart and Checkout: Accessible shopping cart on all pages with a secure,
 Web Application testing ensures the performance, security, and functionality of web servers. <br>
 Vulnerability testing checks for fragility in a website that could be utilized by attackers.<br>
 Objectives:<br>
-    <br>1. Identify and fix vulnerabilities to stop security breaches.<br>
+  1. Identify and fix vulnerabilities to stop security breaches.<br>
   2. Protect sensitive data and maintain user trust.<br>
 Tools: Nessus<br>
 Testing Objectives: <br>
