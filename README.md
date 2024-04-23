@@ -41,7 +41,7 @@ Shopping Cart and Checkout: Accessible shopping cart on all pages with a secure,
 
 ![WhatsApp Image 2024-04-22 at 11 37 27 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/d936e2fb-8722-4174-b68b-375bd8413a2f)
 
-<h2>Nessus test report</h2>
+<h2>Test Details</h2>
 Web Application testing ensures the performance, security, and functionality of web servers. <br>
 Vulnerability testing checks for fragility in a website that could be utilized by attackers.<br>
 Objectives:<br>
