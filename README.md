@@ -30,7 +30,7 @@ Shopping Cart and Checkout: Accessible shopping cart on all pages with a secure,
 ![WhatsApp Image 2024-04-22 at 11 37 26 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/16afd159-2a99-4144-90dc-87393bf469f6)
 
 2. User registration
-3. 
+
 ![WhatsApp Image 2024-04-22 at 11 37 26 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/6d5ebd1d-7417-491a-b95e-dd84eaab4c39)
 
 3.Shop the products by clicking and can checkout out to the payment.
