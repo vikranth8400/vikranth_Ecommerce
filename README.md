@@ -26,13 +26,35 @@ Product Pages: Individual pages for each product with descriptions, images, pric
 Shopping Cart and Checkout: Accessible shopping cart on all pages with a secure, efficient checkout process, offering multiple payment option
 
 1.Home page
+
 ![WhatsApp Image 2024-04-22 at 11 37 26 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/16afd159-2a99-4144-90dc-87393bf469f6)
 
 2. User registration
+3. 
 ![WhatsApp Image 2024-04-22 at 11 37 26 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/6d5ebd1d-7417-491a-b95e-dd84eaab4c39)
 
 3.Shop the products by clicking and can checkout out to the payment.
+
 ![WhatsApp Image 2024-04-22 at 11 37 28 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/0933c076-3e1b-4084-8e1d-252f105e940a)
 
 4.MFA Setup: Rublon Multifactor authentication.
+
 ![WhatsApp Image 2024-04-22 at 11 37 27 PM (1)](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/d936e2fb-8722-4174-b68b-375bd8413a2f)
+
+<h2>Nessus test report</h2>
+Web Application testing ensures the performance, security, and functionality of web servers.
+Vulnerability testing checks for fragility in a website that could be utilized by attackers.
+Objectives:
+  1. Identify and fix vulnerabilities to stop security breaches.
+  2. Protect sensitive data and maintain user trust.
+Tools: Nessus
+Testing Objectives: 
+  1. Performance Testing: Assess server response time, throughput, and scalability under different loads.
+  2. Security Testing: Identify and reduce vulnerabilities such as injection flaws, CGI and CSRF.
+  3. Functional Testing: Verify that the server functions correctly across various scenarios and inputs.
+Execution and Analysis:
+  1. Execute test scenarios using chosen tools.
+  2. Monitor key metrics: response time, error rates, resource utilization.
+  3. Analyze results to identify performance, security vulnerabilities, or functional issues.
+
+
