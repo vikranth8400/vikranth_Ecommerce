@@ -24,3 +24,5 @@ Selected the Astra theme, a responsive WordPress theme compatible with WooCommer
 Home Page: Designed to highlight featured products, deals, or categories prominently.
 Product Pages: Individual pages for each product with descriptions, images, pricing, and add-to-cart options.
 Shopping Cart and Checkout: Accessible shopping cart on all pages with a secure, efficient checkout process, offering multiple payment option
+
+![WhatsApp Image 2024-04-22 at 11 37 26 PM](https://github.com/vikranth8400/vikranth_Ecommerce/assets/55799863/16afd159-2a99-4144-90dc-87393bf469f6)
